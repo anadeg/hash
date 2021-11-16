@@ -1,0 +1,5 @@
+﻿  UnitTest.cpp
+E:\aois6\aois6\inner_adressaing.cpp(29,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\aois6\aois6\inner_adressaing.cpp(33,51): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\aois6\aois6\inner_adressaing.cpp(17): warning C4715: 'hash_table::letter_to_number': not all control paths return a value
+  UnitTest.vcxproj -> E:\aois6\aois6\x64\Debug\UnitTest.dll
