@@ -1,2 +1,0 @@
-E:\aois6\aois6\x64\Debug\aois6.exe
-E:\aois6\aois6\x64\Debug\aois6.pdb
